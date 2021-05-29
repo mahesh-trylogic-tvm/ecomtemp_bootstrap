@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    background: radial-gradient(#FFF, #e88eff96);
+}
+
+.bg-light {
+    background: #FFF1 !important;
+}
+
+.card {
+    margin: 5px;
+}
+.card p, .card h4, .card div{
+    padding: 2px 10px;
+}
+
+.card h4 {
+    font-size: 14px;
+}
